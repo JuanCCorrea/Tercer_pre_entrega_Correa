@@ -1,0 +1,5 @@
+    path ('clasesForm/', claseForm, name = "clasesForm"),
+    path ('horarioForm/', HorarioForm, name = "horarioForm"),
+    path ('reservaForm/', reservaForm, name = "reservaForm"),
+    path ('buscarClases/', buscarClases, name = "buscarClases"),
+    path ('encontrarClases/', encontrarClases, name = "encontrarClases"),
